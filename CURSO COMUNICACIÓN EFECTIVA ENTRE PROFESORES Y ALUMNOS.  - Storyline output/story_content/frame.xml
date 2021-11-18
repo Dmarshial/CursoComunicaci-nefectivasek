@@ -1154,11 +1154,19 @@
       <string id="acc_active">activo</string>
     </string_table>
   </string_tables>
+  <fonts>
+    <font name="Open Sans Extrabold">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
   <sounds enabled="true" />
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6iemYhYLaOT" displaytext="Inicio" expand="true" type="slide">
+        <slidelink slideid="_player.6iemYhYLaOT" displaytext="Inicio" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6iemYhYLaOT.6htBEKYSWGk" displaytext="Bienvenda" expand="false" type="slide" />
             <slidelink slideid="_player.6iemYhYLaOT.6UVQH18vHmA" displaytext="Objetivos del Curso" expand="false" type="slide" />
@@ -1167,9 +1175,27 @@
             <slidelink slideid="_player.6iemYhYLaOT.5gVvXocH0rB" displaytext="Estructura de evaluación" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5sywDahWE0A" displaytext="Sesión 1 (17-11-2021)" expand="false" type="slide">
+        <slidelink slideid="_player.6YIIibmHaVD" displaytext="Sesión 1 17-11-2021" expand="false" type="slide">
           <links>
-            <slidelink slideid="_player.5sywDahWE0A.6k5hQlocm5D" displaytext="Restricción" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6ie1sK17pHX" displaytext="Profesor Diego Marcial A." expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5f1d9MskCXZ" displaytext="IMPORTANTE:" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6ZH4dCz9Fgs" displaytext="Título de inicio " expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6iNpZiMQUDK" displaytext="Introducción" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5ZswzZtkufW" displaytext="Reflexión 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6rXU1mnrMyE" displaytext="Comunicación" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6kYeNxXcLlG" displaytext="Comunicación Efectiva" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5hShwaoaSIi" displaytext="Herramientas apropiadas" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5o1dBxpCajv" displaytext="Ciclo de Com. Efect." expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6AQCpdbKt8M" displaytext="Acercamiento a la Realidad " expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6fcjC59TQm9" displaytext="Problemas de Comunicación" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6DPyxb8ishy" displaytext="Reflexión-participativa." expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6MKhXbugEVS" displaytext="Donde se pierde la Com." expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5aBB91kdgKu" displaytext="Barreras" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.60F5wBzzS16" displaytext="Como mejorar 1/2" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5ymw4tyA1yw" displaytext="Como mejorar 2/3" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5v9c3AF3Qme" displaytext="Recomendaciones" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.63jrxDmacw5" displaytext="Recomendaciones" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6cBqJMsa3gY" displaytext="Realidad en la comunicación" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5o3baySKORN" displaytext="Sesión 2 (24-11-2021)" expand="false" type="slide">
