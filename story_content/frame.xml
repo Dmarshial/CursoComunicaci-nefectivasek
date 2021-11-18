@@ -21,7 +21,7 @@
           </option>
           <option name="sidebar_enabled" value="true">
             <options>
-              <option name="sidebarpos" value="left" />
+              <option name="sidebarpos" value="right" />
               <option name="closed" value="false" />
             </options>
           </option>
@@ -1166,14 +1166,56 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6iemYhYLaOT" displaytext="Escena sin título" expand="true" type="slide">
+        <slidelink slideid="_player.6iemYhYLaOT" displaytext="Inicio" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6iemYhYLaOT.6htBEKYSWGk" displaytext="Bienvenda" expand="false" type="slide" />
             <slidelink slideid="_player.6iemYhYLaOT.6UVQH18vHmA" displaytext="Objetivos del Curso" expand="false" type="slide" />
             <slidelink slideid="_player.6iemYhYLaOT.5jimprWEV89" displaytext="Ruta de trabajo" expand="false" type="slide" />
             <slidelink slideid="_player.6iemYhYLaOT.66dqBn71xYE" displaytext="Resultados de Aprendizaje" expand="false" type="slide" />
             <slidelink slideid="_player.6iemYhYLaOT.5gVvXocH0rB" displaytext="Estructura de evaluación" expand="false" type="slide" />
-            <slidelink slideid="_player.6iemYhYLaOT.5Ws2CV6dmsG" displaytext="Diapositiva sin título" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6YIIibmHaVD" displaytext="Sesión 1 17-11-2021" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6YIIibmHaVD.6ie1sK17pHX" displaytext="Profesor Diego Marcial A." expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5f1d9MskCXZ" displaytext="IMPORTANTE:" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6ZH4dCz9Fgs" displaytext="Título de inicio " expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6iNpZiMQUDK" displaytext="Introducción" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5ZswzZtkufW" displaytext="Reflexión 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6rXU1mnrMyE" displaytext="Comunicación" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6kYeNxXcLlG" displaytext="Comunicación Efectiva" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5hShwaoaSIi" displaytext="Herramientas apropiadas" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5o1dBxpCajv" displaytext="Ciclo de Com. Efect." expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6AQCpdbKt8M" displaytext="Acercamiento a la Realidad " expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6fcjC59TQm9" displaytext="Problemas de Comunicación" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6DPyxb8ishy" displaytext="Reflexión-participativa." expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6MKhXbugEVS" displaytext="Donde se pierde la Com." expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5aBB91kdgKu" displaytext="Barreras" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.60F5wBzzS16" displaytext="Como mejorar 1/2" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5ymw4tyA1yw" displaytext="Como mejorar 2/3" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.5v9c3AF3Qme" displaytext="Recomendaciones" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.63jrxDmacw5" displaytext="Recomendaciones" expand="false" type="slide" />
+            <slidelink slideid="_player.6YIIibmHaVD.6cBqJMsa3gY" displaytext="Realidad en la comunicación" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5o3baySKORN" displaytext="Sesión 2 (24-11-2021)" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5o3baySKORN.5wuslku6et9" displaytext="Restricción" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5l6ZDC4KJ7N" displaytext="Sesión 3 (01-12-2021)" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5l6ZDC4KJ7N.6ckzgc5h8x0" displaytext="Restricción" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5mhg7ESFCpU" displaytext="Sesión 4 (08-12-2021)" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5mhg7ESFCpU.6AIcPCMmgM0" displaytext="Restricción" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5oCDNQ9ZaME" displaytext="Sesión 5 (15-12-2021)" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5oCDNQ9ZaME.5lXsqTldYj9" displaytext="Restricción" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
@@ -1183,7 +1225,7 @@
     <resources>
       <resource url="https://www.ecotec.edu.ec/content/uploads/investigacion/libros/comunicacion-efectiva.pdf" image="story_content/url.png" title="Comunicación Efectiva como Elemento de Exíto" />
       <resource url="https://www.redalyc.org/pdf/782/78230409001.pdf" image="story_content/url.png" title="Comunicación efectiva y desempeño laboral en Educación Básica" />
-      <resource url="https://d1wqtxts1xzle7.cloudfront.net/41442487/Liderazgo__comunicacion_efectiva_y_resolucion-with-cover-page-v2.pdf?Expires=1636663812&amp;Signature=H3ABdgQnMu4csc2DS2SN~Sw3E--c6S5A7nUdlPpS7YDTXFboe25gWTBRQLu5sTfyCecYK~pKR8YRRKi98-9egLA1OsGRnfEwDujpjvn8VXRgxtXS3ZP9FJZDlsAYIS6rW~ihGk3ZRp2xTR1UK8OccZe8GuF4ErekBOasy-wH6yfsVpuSUJu7QOs5LFbtUMszpl70st7be8hSyIBnGuAX8Mm1vHI~EGwZhoLaeNrl-ecn-64RU2nJz10VtyfVsAIhQJ8EGrylz6h45hKdTWatDvx-prE1CSI09st3GkbtskrN9YFCG2WzJmSFSzcH9pfxXka1~EAWo4O62HNsIpDEYw__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" image="story_content/url.png" title="Liderazgo, comunicación efectiva y resolución" />
+      <resource url="https://catedraunescodh.unam.mx/catedra/CONACYT/07_CursoBasicoResConflict2011/Contenidos/MODULO5/contenido/Liderazgo,%20comunicacion%20efectiva%20y%20resolucion%20de%20conflictos.pdf" image="story_content/url.png" title="Liderazgo, comunicación efectiva y resolución" />
     </resources>
   </resource_data>
   <transcript_data />
